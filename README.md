@@ -14,7 +14,7 @@ I used to play a lot of games before but now I only play [Dota 2](https://www.do
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnu-kyatannawar&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)](https://headingtag.com)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnu-kyatannawar&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/vishnu-kyatannawar)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-kyatannawar&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=8&hide=Hack,Makefile)](https://headingtag.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-kyatannawar&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=8&hide=Hack,Makefile)](https://github.com/vishnu-kyatannawar)
 
