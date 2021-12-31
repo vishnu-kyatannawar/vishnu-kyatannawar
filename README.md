@@ -26,3 +26,7 @@ I used to play a lot of games before but now I only play [Dota 2](https://www.do
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-kyatannawar&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=8&hide=Hack,Makefile)](https://github.com/vishnu-kyatannawar)
 
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
