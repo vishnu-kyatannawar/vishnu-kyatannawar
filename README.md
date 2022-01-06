@@ -1,7 +1,5 @@
 # Hey, I'm Vishnu Kyatannawar 👋
 
-### Software Engineer, Team Lead & Dota 2 Player
-
 I am Vishnu Kyatannawar from Hyderabad, Telangana, India. I have been working as a software engineer for the past 6 years at [Osmosys Software Solution](https://osmosys.co/). I love to explore new tech. I spend my time on analysing the project requirements, coming up with solutions, implementing, deploying and managing the products.
 
 I used to play a lot of games before but now I only play [Dota 2](https://www.dota2.com/home) on steam with my colleagues. I love riding and I like to go on short and long trips on my motor bike.
