@@ -20,6 +20,6 @@ I play [Dota 2](https://www.dota2.com/home) on steam with my colleagues. I love 
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Coming soon](https://blog.headingtag.com/coming-soon/)
+- [Multiple Git Account SSH Keys Management](https://blog.headingtag.com/multiple-git-account-ssh-keys-management/)
 <!-- BLOG-POST-LIST:END -->
 
