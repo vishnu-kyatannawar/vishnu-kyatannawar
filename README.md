@@ -12,12 +12,6 @@ I play [Dota 2](https://www.dota2.com/home) on steam with my colleagues. I love 
 [![Website](https://img.shields.io/badge/Website-headingtag.com-green)](https://headingtag.com/)
 [![Blog](https://img.shields.io/badge/Blog-blog.headingtag.com-yellowgreen)](https://blog.headingtag.com)
 
-## My GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnu-kyatannawar&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/vishnu-kyatannawar)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-kyatannawar&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=8&hide=Hack,Makefile)](https://github.com/vishnu-kyatannawar)
-
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Multiple Git Account SSH Keys Management](https://headingtag.com/multiple-git-account-ssh-keys-management)
