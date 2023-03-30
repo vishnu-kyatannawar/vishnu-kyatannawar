@@ -14,6 +14,7 @@ I play [Dota 2](https://www.dota2.com/home) on steam with my colleagues. I love 
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Take Backup and Restore a Volume in Docker](https://headingtag.com/how-to-take-backup-and-restore-a-volume-in-docker)
 - [Multiple Git Account SSH Keys Management](https://headingtag.com/multiple-git-account-ssh-keys-management)
 <!-- BLOG-POST-LIST:END -->
 
